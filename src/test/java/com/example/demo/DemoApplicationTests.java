@@ -1,3 +1,4 @@
+/*
 package com.example.demo;
 
 import com.example.demo.web.BlogProperties;
@@ -39,3 +40,4 @@ public class DemoApplicationTests {
 
 
 }
+*/
